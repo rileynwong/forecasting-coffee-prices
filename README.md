@@ -3,6 +3,10 @@ Using data from the Nairobi Coffee Exchange for coffee prices from 2014-2018, sc
 
 Uses [Tabula](https://github.com/chezou/tabula-py) for data scraping and [Prophet](https://github.com/facebook/prophet/) for time-series forecasting.
 
+For easy viewing:
+- [NBViewer for PDF_to_CSV.ipynb](https://nbviewer.jupyter.org/github/rileynwong/forecasting-coffee-prices/blob/master/PDF_to_CSV.ipynb)
+- [NBViewer for Predicting_Coffee_Prices.ipynb](https://nbviewer.jupyter.org/github/rileynwong/forecasting-coffee-prices/blob/master/Predicting_Coffee_Prices.ipynb)
+
 
 ### Setup
 - Create and activate a new virtual environment:

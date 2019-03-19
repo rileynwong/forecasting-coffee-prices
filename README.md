@@ -8,6 +8,7 @@ Using data from the Nairobi Coffee Exchange for coffee prices from 2014-2018, sc
   - `$ conda activate coffee-env`
 
 - Install project dependencies:
+  - `$ conda install gcc; conda install -c conda-forge fbprophet`
   - `$ pip install requirements.txt`
 
 

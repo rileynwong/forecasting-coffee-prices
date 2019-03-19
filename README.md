@@ -5,11 +5,11 @@ Using data from the Nairobi Coffee Exchange for coffee prices from 2014-2018, sc
 ### Setup
 - Create and activate a new virtual environment:
   - `$ conda create -n coffee_env python=3`
-  - `$ conda activate coffee-env`
+  - `$ conda activate coffee_env`
 
 - Install project dependencies:
   - `$ conda install gcc; conda install -c conda-forge fbprophet`
-  - `$ pip install requirements.txt`
+  - `$ pip install -r requirements.txt`
 
 
 ### File Overview

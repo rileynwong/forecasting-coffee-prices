@@ -1,6 +1,8 @@
 # Projecting Coffee Prices in Kenya
 Using data from the Nairobi Coffee Exchange for coffee prices from 2014-2018, scrape data from PDFs, and forecast future coffee prices for the 2018-2019 session.
 
+Uses [Tabula](https://github.com/chezou/tabula-py) for data scraping and [Prophet](https://github.com/facebook/prophet/) for time-series forecasting.
+
 
 ### Setup
 - Create and activate a new virtual environment:
